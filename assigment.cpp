@@ -8,7 +8,6 @@ int main()
 {
 	cout << "This program will crash"
 	<< endl;
-	//##1 add the cout
 //## initialize the sum with zero
 	int nSum=0;
 	int nNums;
